@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  font-size: larger;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: lightpink;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
+}
